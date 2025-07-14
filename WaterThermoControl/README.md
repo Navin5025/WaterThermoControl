@@ -1,7 +1,7 @@
-# Smart Water Heater Controller
+# Water Thermo Control
 
 ## Overview
-The **Smart Water Heater Controller** is an embedded system project developed using an **AVR Microcontroller**. The system allows users to set a desired water temperature, and the controller heats the water until the specified temperature is reached. Once the target temperature is achieved, the system automatically turns off. If powered off and turned back on, it will resume heating to the last set temperature, offering convenience and energy savings.
+The **Water Thermo Control** is an embedded system project developed using an **AVR Microcontroller**. The system allows users to set a desired water temperature, and the controller heats the water until the specified temperature is reached. Once the target temperature is achieved, the system automatically turns off. If powered off and turned back on, it will resume heating to the last set temperature, offering convenience and energy savings.
 
 ### Features:
 - User-defined temperature setting for the water heater
